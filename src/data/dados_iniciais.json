@@ -1,0 +1,170 @@
+{
+  "categorias": [
+    {
+      "titulo": "IA",
+      "cor": "#524DB8",
+      "link_extra": {
+        "text": "Vídeos sobre Inteligência Articial",
+        "url": "https://www.youtube.com/results?search_query=artificial+intelligence+"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        },
+        {
+          "titulo": "CS50's Web Programming with Python and JavaScript 2020",
+          "url": "https://youtu.be/DUSnqRJ_pfQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas de Programação",
+      "cor": "#79408F",
+      "link_extra": {
+        "text": "Aprenda algumas dicas para programar",
+        "url": "https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog"
+      },
+      "videos": [
+        {
+          "titulo": "Top 5 UI/UX Desing [Trends] Tips",
+          "url": "https://www.youtube.com/watch?v=gq9w14ag0ls"
+        },
+        {
+          "titulo": "Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?)",
+          "url": "https://www.youtube.com/watch?v=Lf3ZV0UsnEo"
+        },
+        {
+          "titulo": "CSS Skewed Border | Creative Box Border Hover Effects | Html CSS",
+          "url": "https://youtu.be/-1U62fdmCk4"
+        },
+        {
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "CSS Creative Product Card UI Design | E-commerce Card Using Html5 & CSS3",
+          "url": "https://www.youtube.com/watch?v=jUByQLfakJ8"
+        },
+        {
+          "titulo": "Cool CSS box-shadow Example and Hover Effects | Quick CSS Tips & Tricks",
+          "url": "https://youtu.be/6U3RrSBjX3I"
+        },
+        {
+          "titulo": "Background Parallax Effect on Mousemove using Vanilla Javascript",
+          "url": "https://youtu.be/dqzZ0SbSgHY"
+        },
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }        
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#B63952",
+      "link_extra": {
+        "text": "Acompanhe os jogos do momento",
+        "url": "https://www.youtube.com/user/BRKsEDU"
+      },
+      "videos": [
+        {
+          "titulo": "THE LAST OF US Part II - O Início de Gameplay, Dublado e Legendado em Português PT-BR | PS4 Pro",
+          "url": "https://www.youtube.com/watch?v=HBgPd_WBT2Y"
+        },
+        {
+          "titulo": "5 Jogos EXCLUSIVOS de Destaque do PS5 | Anúncios do Evento de PlayStation 5",
+          "url": "https://www.youtube.com/watch?v=EXQccdXZZPg"
+        },
+        {
+          "titulo": "Demo de Gameplay no PS5 Reflete o Potencial da Nova Geração?",
+          "url": "https://www.youtube.com/watch?v=8-lk4igBs7Q"
+        },
+        {
+          "titulo": "DETROIT BECOME HUMAN - O Início de Gameplay, em Português PT BR, no PS4 Pro!",
+          "url": "https://www.youtube.com/watch?v=LyBYdYnaX0c"
+        },
+        {
+          "titulo": "HORIZON ZERO DAWN - O Início de Gameplay, em Português! (PS4 Pro)",
+          "url": "https://www.youtube.com/watch?v=Uv6OvwqEPGM"
+        }
+      ]
+    },
+    {
+      "titulo": "Metodologias de Estudos",
+      "cor": "#923B76",
+      "link_extra": {
+        "text": "Conheça métodos de estudos",
+        "url": "https://www.youtube.com/results?search_query=metodologias+de+estudo"
+      },
+      "videos": [
+        {
+          "titulo": "QUAIS SÃO AS MELHORES TÉCNICAS DE ESTUDO?",
+          "url": "https://www.youtube.com/watch?v=sXmKaZ-9fWc"
+        },
+        {
+          "titulo": "COMO TER MAIS FOCO | A TÉCNICA POMODORO | RESUMO ANIMADO",
+          "url": "https://www.youtube.com/watch?v=hfxfJ7Qa4sg"
+        },
+        {
+          "titulo": "Como APRENDER QUALQUER COISA de maneira INTELIGENTE | A Técnica Feynman",
+          "url": "https://www.youtube.com/watch?v=CN_SCpGuJ_w"
+        },
+        {
+          "titulo": "As MELHORES técnicas de estudo | Seja Um Estudante Melhor",
+          "url": "https://www.youtube.com/watch?v=yh4wIa0ARNk"
+        }, 
+        {
+          "titulo": "COMO ESTUDAR COM O MÉTODO SQ3R",
+          "url": "https://www.youtube.com/watch?v=zzRmBUi9EKg"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprenda a aprender tecnologia",
+      "cor": "#6945A0",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
