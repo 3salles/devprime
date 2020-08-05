@@ -2,13 +2,14 @@
   <img src="https://github.com/3salles/devprime/blob/master/src/assets/img/Logo.png">
 </p>
 
+<div align="center">
+  ![Badge](https://img.shields.io/badge/version-0.1.0-blue)
+  ![Badge](https://img.shields.io/badge/status-unfinished-red)
+  ![Badge](https://img.shields.io/badge/license-MIT-brightgreen)
+ </div>
+ 
 # DevPrime
-
 É um site desenvolvido durante a imersão React da Alura. Este site possui conteúdos da área de Tecnologia.
-
-![Badge](https://img.shields.io/badge/version-0.1.0-blue)
-![Badge](https://img.shields.io/badge/status-unfinished-red)
-![Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 Tabela de conteúdos
 =================
@@ -51,6 +52,7 @@ npm install
 ```
 
 # Autora
+Beatriz Salles <br>
 Entre em contato!<br>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/3salles)](https://github.com/3salles)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-salles-b701a31a6)](https://www.linkedin.com/in/beatriz-salles-b701a31a6/)
