@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  ![Badge](https://img.shields.io/badge/version-0.1.0-blue)
-  ![Badge](https://img.shields.io/badge/status-unfinished-red)
+  ![Badge](https://img.shields.io/badge/version-0.1.0-blue)<space><space>
+  ![Badge](https://img.shields.io/badge/status-unfinished-red)<space><space>
   ![Badge](https://img.shields.io/badge/license-MIT-brightgreen)
  </div>
  
