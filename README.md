@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/img/Logo.png" alt="DevPrime">
+  <img src="https://github.com/3salles/devprime/blob/master/src/assets/img/Logo.png">
 </p>
 
 # DevPrime
