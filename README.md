@@ -2,11 +2,11 @@
   <img src="https://github.com/3salles/devprime/blob/master/src/assets/img/Logo.png">
 </p>
 
-<div align="center">
+<p align="center">
   ![Badge](https://img.shields.io/badge/version-0.1.0-blue)<space><space>
   ![Badge](https://img.shields.io/badge/status-unfinished-red)<space><space>
   ![Badge](https://img.shields.io/badge/license-MIT-brightgreen)
- </div>
+</p>
  
 # DevPrime
 É um site desenvolvido durante a imersão React da Alura. Este site possui conteúdos da área de Tecnologia.
