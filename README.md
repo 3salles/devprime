@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/Logo.png" alt="DevPrime">
+  <img src="./assets/img/Logo.png" alt="DevPrime">
 </p>
 
 # DevPrime
@@ -44,7 +44,7 @@ $ npm install
 ## Como Usar
 Com as dependências instaladas, use o seguinte comando dentro da pasta.
 ```bash
-npm 
+npm install
 
 # Acesse o link na porta 5000
 <http://localhost:5000>
